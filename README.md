@@ -1,5 +1,8 @@
-<div height="250px" background-color="#7488C1"><h1 align="center">Hi 👋, I'm Pablo Nicolás Pereyra</h1><h3 align="center">I am a self-taught web developer who joined in the IT world at 2019.</h3></div>
-![banner](https://github.com/npereyradw/npereyradw/assets/70751595/dab8dda1-6814-44e0-82cc-2762d1c3c32d)
+<div align="center"><h1 align="center">Hi 👋, I'm Pablo Nicolás Pereyra</h1><h3 align="center">I am a self-taught web developer who joined in the IT world at 2019.</h3></div>
+<img src="https://github.com/npereyradw/npereyradw/assets/70751595/acaa89cf-9ee0-4e95-ae20-71a6b35332e2">
+
+
+
 
 
 
