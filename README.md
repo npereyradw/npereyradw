@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Pablo Nicolás Pereyra</h1>
-<h3 align="center">I am a self-taught web developer who joined in the IT world at 2019.</h3>
+<div height="250px" background-color="#7488C1"><h1 align="center">Hi 👋, I'm Pablo Nicolás Pereyra</h1><h3 align="center">I am a self-taught web developer who joined in the IT world at 2019.</h3></div>
+![banner](https://github.com/npereyradw/npereyradw/assets/70751595/dab8dda1-6814-44e0-82cc-2762d1c3c32d)
+
+
 
 - 🔭 I’m currently working at **Edairynews and Ghost Sherpa**
 
