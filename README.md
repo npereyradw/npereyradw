@@ -43,6 +43,7 @@ I build and lead WordPress projects: custom themes, plugins and Gutenberg blocks
 
 **AI:**
 ![Claude](./assets/badges/claude.svg)
+![Claude Skills](./assets/badges/claude-skills.svg)
 ![MCP](./assets/badges/mcp.svg)
 
 **Design & tools:**
@@ -66,7 +67,9 @@ As Dev Lead I owned architecture, estimates, code and design review, and QA for 
 | [bmbinc.com](https://www.bmbinc.com/) | [kbs.com](https://kbs.com/) | [newhometrendsinstitute.com](https://newhometrendsinstitute.com/) |
 | [nuleaf.me](https://nuleaf.me/) | [sle.energy](https://sle.energy/) | |
 
-## 🌐 Sites I Built
+## 🌐 More Sites I've Built or Led
+
+A selection of sites I developed or led for agencies and clients across different companies.
 
 | | | |
 |---|---|---|
