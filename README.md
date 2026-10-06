@@ -1,40 +1,96 @@
-<div align="center"><h1 align="center">Hi 👋, I'm Pablo Nicolás Pereyra</h1><h3 align="center">I am a self-taught web developer who joined in the IT world at 2019.</h3></div>
-<img src="https://github.com/npereyradw/npereyradw/assets/70751595/acaa89cf-9ee0-4e95-ae20-71a6b35332e2">
+<div align="center">
 
+# Hi, I'm Pablo Nicolás Pereyra 👋
 
+### WordPress Dev Lead · Website Builder · AI-Assisted Development
 
+I build and lead WordPress projects: custom themes, plugins and Gutenberg blocks, page-builder sites with Divi and Elementor, and the workflows that ship them faster.
 
+📍 Córdoba, Argentina · Remote &nbsp;|&nbsp; 🟢 **Open to new opportunities:** Dev Lead · Senior WordPress Developer · Website Builder
 
+[![LinkedIn](./assets/badges/linkedin.svg)](https://www.linkedin.com/in/npereyradw/)
+[![Email](./assets/badges/email.svg)](mailto:npereyradw@gmail.com)
 
-- 🔭 I’m currently working at **Edairynews and Ghost Sherpa**
+</div>
 
-- 💬 Ask me about **WordPress, Elementor Pro, ACF, WP Forms, CPT UI**
+---
 
-- 🙋‍♂️ Hello! My name is Nicolás and I am 33 years old. I am a self-taught web developer who joined in the IT world at 2019. I have been working as a freelance for many years, and now am looking to expand my work with job proposals that make me grow. I want to hone my skills with the tools I work with and learn about new tools. I like teamwork and learn from my colleagues. I like to meet my responsibilities and deadlines.
+## ⚡ Highlights
 
-- 📫 How to reach me **npereyradw@gmail.com**
+- **7 years in WordPress, 4 years leading teams.** 80+ sites built and 20+ led.
+- **Led a 10-person team at 500 Designs**: WordPress, fullstack and Shopify developers, QA and technical producers, delivering sites for brands such as Fresh Del Monte, Telestream and Momentive Software.
+- **Cut Gutenberg build time from ~15 h to ~4 h** with AI-assisted design-to-code workflows (Claude + MCP for Figma and WordPress), and halved Elementor build time.
+- **Built eDairy News from scratch**, a WordPress news portal serving 200k+ monthly users.
+- **Trained teams in AI-assisted development** through workshops, and built Claude skills and automations for recurring tasks.
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/npereyradw/](https://www.linkedin.com/in/npereyradw/)
+## 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/npereyradw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="npereyradw" height="30" width="40" /></a>
-</p>
+**WordPress:**
+![WordPress](./assets/badges/wordpress.svg)
+![Gutenberg](./assets/badges/gutenberg.svg)
+![Elementor](./assets/badges/elementor.svg)
+![Divi](./assets/badges/divi.svg)
+![WooCommerce](./assets/badges/woocommerce.svg)
+![ACF](./assets/badges/acf.svg)
+![Crocoblock](./assets/badges/crocoblock.svg)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://s.w.org/style/images/about/WordPress-logotype-simplified.png" alt="WP" width="40" height="40"/> </a><a href="https://www.elementor.com/" target="_blank" rel="noreferrer"> <img src="https://elementor.com/marketing/wp-content/uploads/2021/10/Elementor-Logo-Symbol-Pink.png" alt="WP" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+**Code:**
+![PHP](./assets/badges/php.svg)
+![JavaScript](./assets/badges/javascript.svg)
+![HTML5](./assets/badges/html5.svg)
+![CSS3](./assets/badges/css3.svg)
+![MySQL](./assets/badges/mysql.svg)
 
-<h3 align="left">⚡Sites created with WordPress⚡</h3><br>
-🔗<a href="https://edairynews.com/es" target="blank">edairynews.com/es</a><br>
-🔗<a href="https://edairynews.com/en" target="blank">edairynews.com/en</a><br>
-🔗<a href="https://edairynews.com/br" target="blank">edairynews.com/br</a><br>
-🔗<a href="https://edairynews.com/in" target="blank">edairynews.com/in</a><br>
-🔗<a href="https://homeprop.com/" target="blank">homeprop.com/</a><br>
-🔗<a href="https://homeproppm.com/" target="blank">homeproppm.com/</a><br>
-🔗<a href="https://tonyviducich.com/" target="blank">tonyviducich.com/</a><br>
-🔗<a href="https://regalroofingbrandon.com/" target="blank">regalroofingbrandon.com/</a><br>
-🔗<a href="https://willing2wait.com/" target="blank">willing2wait.com/</a><br>
-🔗<a href="https://rafulmateriales.com/" target="blank">rafulmateriales.com/</a><br>
-🔗<a href="https://consultorai.com/" target="blank">consultorai.com/</a><br>
-🔗<a href="https://gardeniaselect.com.ar/" target="blank">gardeniaselect.com.ar/</a><br><br>
-🌎...And much more! Please if you need to see more projects, do not hesitate to contact me! <a href="mailto:npereyradw@gmail.com">npereyradw@gmail.com</a>
+**AI:**
+![Claude](./assets/badges/claude.svg)
+![MCP](./assets/badges/mcp.svg)
+
+**Design & tools:**
+![Figma](./assets/badges/figma.svg)
+![HubSpot](./assets/badges/hubspot.svg)
+![Photoshop](./assets/badges/photoshop.svg)
+![Illustrator](./assets/badges/illustrator.svg)
+
+## 🏗️ Projects I Led at 500 Designs
+
+As Dev Lead I owned architecture, estimates, code and design review, and QA for these builds.
+
+| | | |
+|---|---|---|
+| [freshdelmonte.com](https://freshdelmonte.com/) | [delmontecorporation.com](https://delmontecorporation.com/) | [telestream.com](https://www.telestream.com/) |
+| [momentivesoftware.com](https://momentivesoftware.com/) | [oil-dri.com](https://oil-dri.com/) | [litterpearls.com](https://litterpearls.com/) |
+| [safeholdinc.com](https://www.safeholdinc.com/) | [solovis.com](https://solovis.com/) | [esendexusa.com](https://esendexusa.com/) |
+| [pwmg.com](https://www.pwmg.com/) | [freemason.org](https://freemason.org/) | [challengedathletes.org](https://www.challengedathletes.org/) |
+| [extrum.com](https://extrum.com/) | [livepro.com](https://livepro.com/) | [power-gem.co](https://power-gem.co/) |
+| [cpaclub.cpa](https://cpaclub.cpa/) | [dragonberryproduce.com](https://www.dragonberryproduce.com/) | [bay-cities.com](https://www.bay-cities.com/) |
+| [bmbinc.com](https://www.bmbinc.com/) | [kbs.com](https://kbs.com/) | [newhometrendsinstitute.com](https://newhometrendsinstitute.com/) |
+| [nuleaf.me](https://nuleaf.me/) | [sle.energy](https://sle.energy/) | |
+
+## 🌐 Sites I Built
+
+| | | |
+|---|---|---|
+| [es.edairynews.com](https://es.edairynews.com/) · 200k+ monthly users | [homeprop.com](https://homeprop.com/) | [homeproppm.com](https://homeproppm.com/) |
+| [tonyviducich.com](https://tonyviducich.com/) | [regalroofingbrandon.com](https://regalroofingbrandon.com/) | [willing2wait.com](https://willing2wait.com/) |
+| [fortresschristian.net](https://fortresschristian.net/) | [floridacollegeacademy.net](https://floridacollegeacademy.net/) | [metrowaterfilter.com](https://metrowaterfilter.com/) |
+| [intimatecovenant.com](https://intimatecovenant.com/) | [wrcmobile.org](https://wrcmobile.org/) | [ccametro.com](https://ccametro.com/) |
+| [consultorai.com.ar](https://consultorai.com.ar/) | | |
+
+…and 50+ more as a freelancer. Ask me for more examples.
+
+## 💼 Experience
+
+| Role | Company | Dates |
+|---|---|---|
+| Fullstack WordPress Developer | Freelance | 2019 – Present |
+| WordPress Dev Lead | 500 Designs | 2025 – 2026 |
+| WordPress Tech Lead | Ghost Sherpa | 2022 – 2025 |
+| Fullstack WordPress Developer · Webmaster | eDairy News | 2020 – 2024 |
+
+Full details on [LinkedIn](https://www.linkedin.com/in/npereyradw/).
+
+## 📫 Let's Talk
+
+I'm looking for remote roles as a **Dev Lead**, **Senior WordPress Developer** or **Website Builder**. Reach me at **[npereyradw@gmail.com](mailto:npereyradw@gmail.com)** or on [LinkedIn](https://www.linkedin.com/in/npereyradw/).
+
+🌎 Spanish (native) · English (B2, professional working) · German (basic)
