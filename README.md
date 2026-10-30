@@ -20,7 +20,7 @@ I build and lead WordPress projects: custom themes, plugins and Gutenberg blocks
 - **7 years in WordPress, 4 years leading teams.** 80+ sites built and 20+ led.
 - **Led a 10-person team at 500 Designs**: WordPress, fullstack and Shopify developers, QA and technical producers, delivering sites for brands such as Fresh Del Monte, Telestream and Momentive Software.
 - **Managed 50+ production sites** on WP Engine, Pressable, Flywheel and SiteGround: staging, GitHub deploys, migrations, DNS, SSL and backups via SSH and WP-CLI.
-- **Cut Gutenberg build time from ~15 h to ~4 h** with AI-assisted design-to-code workflows (Claude + MCP for Figma and WordPress), and halved Elementor build time.
+- **Faster design-to-code with AI-assisted workflows** (Claude + MCP for Figma and WordPress) for Gutenberg and Elementor builds, always with human code review.
 - **Built eDairy News from scratch**, a WordPress news portal serving 200k+ monthly users.
 - **Trained teams in AI-assisted development** through workshops, and built Claude skills and automations for recurring tasks.
 
@@ -56,9 +56,15 @@ I build and lead WordPress projects: custom themes, plugins and Gutenberg blocks
 ![Claude Skills](./assets/badges/claude-skills.svg)
 ![MCP](./assets/badges/mcp.svg)
 
+**Marketing & SEO:**
+![Google Analytics 4](./assets/badges/ga4.svg)
+![Google Tag Manager](./assets/badges/gtm.svg)
+![HubSpot](./assets/badges/hubspot.svg)
+![Semrush](./assets/badges/semrush.svg)
+![Screaming Frog](./assets/badges/screaming-frog.svg)
+
 **Design & tools:**
 ![Figma](./assets/badges/figma.svg)
-![HubSpot](./assets/badges/hubspot.svg)
 ![Photoshop](./assets/badges/photoshop.svg)
 ![Illustrator](./assets/badges/illustrator.svg)
 
