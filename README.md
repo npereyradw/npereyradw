@@ -27,29 +27,42 @@ I build and lead WordPress projects: custom themes, plugins and Gutenberg blocks
 ## 🛠️ Tech Stack
 
 **WordPress:**
-![WordPress](./assets/badges/wordpress.svg)
-![Gutenberg](./assets/badges/gutenberg.svg)
-![Elementor](./assets/badges/elementor.svg)
-![Divi](./assets/badges/divi.svg)
-![WooCommerce](./assets/badges/woocommerce.svg)
 ![ACF](./assets/badges/acf.svg)
 ![Crocoblock](./assets/badges/crocoblock.svg)
+![Divi](./assets/badges/divi.svg)
+![Elementor](./assets/badges/elementor.svg)
+![Gutenberg](./assets/badges/gutenberg.svg)
+![WooCommerce](./assets/badges/woocommerce.svg)
+![WordPress](./assets/badges/wordpress.svg)
 
 **Code:**
-![PHP](./assets/badges/php.svg)
-![JavaScript](./assets/badges/javascript.svg)
-![HTML5](./assets/badges/html5.svg)
 ![CSS3](./assets/badges/css3.svg)
+![GSAP](./assets/badges/gsap.svg)
+![HTML5](./assets/badges/html5.svg)
+![JavaScript](./assets/badges/javascript.svg)
 ![MySQL](./assets/badges/mysql.svg)
+![Next.js](./assets/badges/nextjs.svg)
+![PHP](./assets/badges/php.svg)
+![React](./assets/badges/react.svg)
+![Sass](./assets/badges/sass.svg)
+![Tailwind CSS](./assets/badges/tailwind.svg)
+![TypeScript](./assets/badges/typescript.svg)
 
 **Hosting & deploys:**
-![WP Engine](./assets/badges/wpengine.svg)
-![Pressable](./assets/badges/pressable.svg)
 ![Flywheel](./assets/badges/flywheel.svg)
-![SiteGround](./assets/badges/siteground.svg)
-![Hostinger](./assets/badges/hostinger.svg)
 ![GitHub Deploys](./assets/badges/github-deploys.svg)
+![Hostinger](./assets/badges/hostinger.svg)
+![Pressable](./assets/badges/pressable.svg)
+![SiteGround](./assets/badges/siteground.svg)
+![WP Engine](./assets/badges/wpengine.svg)
 ![WP-CLI](./assets/badges/wp-cli.svg)
+
+**Performance:**
+![Cloudflare](./assets/badges/cloudflare.svg)
+![GTmetrix](./assets/badges/gtmetrix.svg)
+![Lighthouse](./assets/badges/lighthouse.svg)
+![PageSpeed Insights](./assets/badges/pagespeed-insights.svg)
+![WP Rocket](./assets/badges/wp-rocket.svg)
 
 **AI:**
 ![Claude](./assets/badges/claude.svg)
@@ -58,15 +71,20 @@ I build and lead WordPress projects: custom themes, plugins and Gutenberg blocks
 
 **Marketing & SEO:**
 ![Google Analytics 4](./assets/badges/ga4.svg)
+![Google Search Console](./assets/badges/search-console.svg)
 ![Google Tag Manager](./assets/badges/gtm.svg)
 ![HubSpot](./assets/badges/hubspot.svg)
-![Semrush](./assets/badges/semrush.svg)
+![Mailchimp](./assets/badges/mailchimp.svg)
+![MailerLite](./assets/badges/mailerlite.svg)
+![Rank Math](./assets/badges/rank-math.svg)
 ![Screaming Frog](./assets/badges/screaming-frog.svg)
+![Semrush](./assets/badges/semrush.svg)
+![Yoast SEO](./assets/badges/yoast.svg)
 
 **Design & tools:**
 ![Figma](./assets/badges/figma.svg)
-![Photoshop](./assets/badges/photoshop.svg)
 ![Illustrator](./assets/badges/illustrator.svg)
+![Photoshop](./assets/badges/photoshop.svg)
 
 ## 🏗️ Projects I Led at 500 Designs
 
